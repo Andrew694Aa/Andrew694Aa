@@ -1,5 +1,21 @@
-# 💫 About Me:
-# 👋 Welcome to Andrew694Aa's GitHub<br><br>Hi there! I'm **Andrew**, also known as **BelGen** — a passionate developer who loves turning ideas into reality through code. Whether it's crafting efficient tools or experimenting with new technologies, I'm always exploring the creative side of software development.<br><br>## 🚀 About Me<br><br>- 🧠 Constantly learning and evolving<br>- 🛠️ Focused on practical, efficient solutions<br>- 🌍 Based in Belarus, coding for a global audience<br>- 💬 Open to collaboration and feedback<br><br>## 📫 Let's Connect<br><br>I'm always happy to connect with fellow developers, creators, and curious minds.  <br>Follow me, star a repo, or drop a message if you'd like to collaborate or just talk tech!<br><br>---<br><br>
+# 👋 Welcome to Andrew694Aa's GitHub
+
+Hi there! I'm **Andrew**, also known as **BelGen** — a passionate developer who loves turning ideas into reality through code. Whether it's crafting efficient tools or experimenting with new technologies, I'm always exploring the creative side of software development.
+
+## 🚀 About Me
+
+- 🧠 Constantly learning and evolving
+- 🛠️ Focused on practical, efficient solutions
+- 🌍 Based in Belarus, coding for a global audience
+- 💬 Open to collaboration and feedback
+
+## 📫 Let's Connect
+
+I'm always happy to connect with fellow developers, creators, and curious minds.  
+Follow me, star a repo, or drop a message if you'd like to collaborate or just talk tech!
+
+---
+
 
 
 ## 🌐 Socials:
