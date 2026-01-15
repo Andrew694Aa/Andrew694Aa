@@ -1,6 +1,6 @@
 # Welcome to Andrew694Aa's GitHub
 
-Hi there! I'm **Andrew**, also known as **BelGen** — a passionate developer who loves turning ideas into reality through code. Whether it's crafting efficient tools or experimenting with new technologies, I'm always exploring the creative side of software development.
+Hi there! I'm **Andrew**, also known as **BelGen** - a passionate developer who loves turning ideas into reality through code. Whether it's crafting efficient tools or experimenting with new technologies, I'm always exploring the creative side of software development.
 
 ## About Me
 
