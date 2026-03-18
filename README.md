@@ -1,19 +1,4 @@
-# Welcome to Andrew694Aa's GitHub
-
-Hi there! I'm **Andrew**, also known as **BelGen** - a passionate developer who loves turning ideas into reality through code. Whether it's crafting efficient tools or experimenting with new technologies, I'm always exploring the creative side of software development.
-
-## About Me
-
-- Constantly learning and evolving
-- Focused on practical, efficient solutions
-- Based in Belarus, coding for a global audience
-- Open to collaboration and feedback
-
-## Let's Connect
-
-I'm always happy to connect with fellow developers, creators, and curious minds.  
-Follow me, star a repo, or drop a message if you'd like to collaborate or just talk tech!
-
+# Welcome to Andrew694Aa's & BelGen's GitHub
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/belgen_official?igsh=MWpxdzc1a3h4ZHZ0aw==) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@belgen_official?_t=ZM-8yg1tSdNrey&_r=1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@belgen_official?si=g9b2VxxiTMGKsrOA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:belgencontact62@gmail.com) 
